@@ -21,8 +21,8 @@ Pada masa pandemi seperti ini, banyak orang kehabisan kegiatan, banyak orang bin
 
 ## Masih meragukan aplikasi ini? Berikut fitur-fiturnya:
 ## 1. Akses mudah untuk menonton tutorial Rubik Bahasa Indonesia
-<img src="ss1/1-01.png" height=500>
+<img src="ss1/1-01.png" height=500> <br>
 ## 2. Aplikasi ini dibuat oleh salah satu Ahli Rubik di Indonesia
-<img src="ss1/2-01.png" height=500>
+<img src="ss1/2-01.png" height=500> <br>
 ## 3. Dilengkapi dengan Timer sehingga mudah mencatat waktu menyelesaikan rubik
 <img src="ss1/3-01.png" height=500>
